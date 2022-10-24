@@ -1,2 +1,2 @@
 print("Hello world!")
-print("And then goodbye")
+print("Why no one loves crabs?")
